@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Manas Jani # your name (or website title) here
+logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Enthusiastic and goal-driven data aficionado with a talent for translating intricate data into practical insights.  
   <br><br>
-  Second description 
+  Seeking a position as an Analyst within a dynamic team, poised to contribute to the identification of valuable prospects for growth and innovation by implementing data-centric strategies. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/manas-jani/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
