@@ -11,8 +11,14 @@ The Adventure Works Data Analysis project is a comprehensive exploration of the 
 [**See More**](/sample_page)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### E-Commerce Sales Analytics Dashboard 📊🛍️
+
+[E-commerce Sales Analytics Dashboard](images/Sales Analytics Dashboard/Sales Analytics Dashboard.png)
+
+Developed a robust e-commerce sales analytics dashboard using PowerBI, 📊 leveraging a dataset with key details like Order ID, 📅 Date, 🚚 Ship Mode, and 👤 Customer information. Provides valuable insights into overall business performance.
+
+[**See More**](/sample_page)
 
 ---
 [Project 3 Title](http://example.com/)
