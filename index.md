@@ -32,6 +32,10 @@ Built a comprehensive HR Analytics dashboard that illuminates insights on employ
 
 ---
 
+### IPL Data Analysis Dashboard 📊🏏
+
+![IPL Data Analysis Dashboard]()
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
