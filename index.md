@@ -4,7 +4,7 @@
 
 ### 🚀 Adventure Works Report 
 
-[![Adventure Works Report](images/AdventureWorks_Reports/AdventureWorks_Exec.png)]
+![Adventure Works Report](images/AdventureWorks_Reports/AdventureWorks_Exec.png)
 
 The Adventure Works Data Analysis project is a comprehensive exploration of the company's extensive dataset, designed to unlock valuable insights and inform strategic decisions. 📈🔍💡 #PowerBI
 
