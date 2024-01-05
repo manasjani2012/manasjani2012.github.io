@@ -21,7 +21,9 @@ Developed a robust e-commerce sales analytics dashboard using PowerBI, 📊 leve
 [**See More**](/sample_page.md)
 
 ---
-[Project 3 Title](http://example.com/)
+### HR Analytics Dashboard 📊👥
+
+![HR Analytics Dashboard](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
