@@ -21,10 +21,14 @@ Developed a robust e-commerce sales analytics dashboard using PowerBI, 📊 leve
 [**See More**](/sample_page.md)
 
 ---
+
 ### HR Analytics Dashboard 📊👥
 
-![HR Analytics Dashboard](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![HR Analytics Dashboard](images/HRAnalytics_Dashboard/HRAnalytics_Dashboard.png)
+
+Built a comprehensive HR Analytics dashboard that illuminates insights on employee attribution based on 📅 Age, 💰 Salary, 🎓 Education, 🧑‍💼 Job Role, 👫 Gender, and 📅 Year.
+
+[**See More**](/sample_page.md)
 
 ---
 
