@@ -42,6 +42,16 @@ Conducted in-depth analysis on the IPL dataset, culminating in the development o
 
 ---
 
+### IMDB Data EDA and Visualization using Python 🎬📊
+
+![IPL Data Analysis Dashboard](images/IPLAnalysis_Dashboard/IPL_TeamStatistics.png)
+
+Conducted in-depth analysis on the IPL dataset, culminating in the development of three comprehensive dashboards. These dashboards meticulously explore Match statistics, Player statistics, and Team statistics, providing a nuanced perspective on the dynamics within the realm of IPL cricket. 📈🏆
+
+[**See More**](/sample_page.md)
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
