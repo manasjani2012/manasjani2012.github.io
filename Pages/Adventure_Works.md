@@ -72,7 +72,7 @@ Adventure Works' influence extends far and wide, with a significant presence in 
 
 ### 📊 Adventure Works Customer Detail
 
-[![Adventure Works Product Detail Page](/images/Adventure_Works_Report/AdventureWorks_Customer_Detail.png?raw=true)](/images/Adventure_Works_Report/AdventureWorks_Customer_Detail.png?raw=true)
+![Adventure Works Product Detail Page](/images/AdventureWorks_Reports/AdventureWorks_Customer.png)
 
 ### Analysis
 
