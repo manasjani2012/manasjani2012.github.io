@@ -17,7 +17,7 @@
 
 ### 📊 Adventure Works Executive Dashboard
 
-[![Adventure Works Executive Dashboard](/images/Adventure_Works_Report/AdventureWorks_Exec_Report.png?raw=true)](/images/Adventure_Works_Report/AdventureWorks_Exec_Report.png?raw=true)
+![Adventure Works Executive Dashboard](/images/AdventureWorks_Reports/AdventureWorks_Exec.png)
 
 ### Analysis
 
