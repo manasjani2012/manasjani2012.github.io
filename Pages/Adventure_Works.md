@@ -13,7 +13,7 @@
 
 ### Data Modeling 🗂️
 
-[![Adventure Works Data Modeling](images/AdventureWorks_Reports/AdventureWorks_Datamodel.png)](images/AdventureWorks_Reports/AdventureWorks_Datamodel.png)
+![Adventure Works Data Modeling](images/AdventureWorks_Reports/AdventureWorks_Datamodel.png)
 
 ### 📊 Adventure Works Executive Dashboard
 
