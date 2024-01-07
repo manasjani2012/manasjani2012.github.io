@@ -42,7 +42,7 @@ On the flip side, shorts seem to be the rebels, leading the return charts. It's 
 
 ### 🌎 Adventure Works Global Presence
 
-[![Adventure Works Global Presence Map](/images/Adventure_Works_Report/AdventureWorks_Map.png?raw=true)](/images/Adventure_Works_Report/AdventureWorks_Map.png?raw=true)
+![Adventure Works Global Presence Map](/images/AdventureWorks_Reports/AdventureWorks_Map.png)
 
 ### Analysis
 
