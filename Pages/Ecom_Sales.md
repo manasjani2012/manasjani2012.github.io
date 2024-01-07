@@ -1,6 +1,6 @@
 ## E-Commerce Sales Analytics Dashboard 📊🛍️
 
-/images/SalesAnalytics_Dashboard/SalesAnalytics_Dashboard.png
+![E-Commerce Sales Analytics Dashboard](/images/SalesAnalytics_Dashboard/SalesAnalytics_Dashboard.png)
 
 **Background Information:** This project unveils a comprehensive sales analytics dashboard developed using PowerBI, offering profound insights into the dynamic performance of an e-commerce business. The dataset encompasses vital details, including Order ID, Order Date, Ship Date, Ship Mode, Customer details, Product specifics, and key financial metrics.
 
