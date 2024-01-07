@@ -8,7 +8,7 @@
 
 The Adventure Works Data Analysis project is a comprehensive exploration of the company's extensive dataset, designed to unlock valuable insights and inform strategic decisions. 📈🔍💡 #PowerBI
 
-[**See More**](/sample_page.md)
+[**See More**](/Pages/Adventure_Works.md)
 
 ---
 
