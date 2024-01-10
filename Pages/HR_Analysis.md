@@ -1,5 +1,7 @@
 ## HR Analytics Dashboard 📊👥
 
+![HR Analytics Dashboard](/images/HRAnalytics_Dashboard/HRAnalytics_Dashboard.png)
+
 **Background Information:** HR Analytics Dashboard that provides valuable insights into employee attrition within an organization. This dynamic dashboard utilizes visualizations to effectively communicate key metrics related to attrition, segmented by various factors. The dashboard is designed to enhance decision-making processes and enable strategic workforce planning.
 
 ### Technology Used
