@@ -41,6 +41,7 @@ and 401 respectively.
 
 ### 🏆 Team Statistics:
 
+![Team Statistics](images/IPLAnalysis_Dashboard/IPL_TeamStatistics.png)
 
 ### Analysis
 
