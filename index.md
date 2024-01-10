@@ -28,7 +28,7 @@ Developed a robust e-commerce sales analytics dashboard using PowerBI, 📊 leve
 
 Built a comprehensive HR Analytics dashboard that illuminates insights on employee attribution based on 📅 Age, 💰 Salary, 🎓 Education, 🧑‍💼 Job Role, 👫 Gender, and 📅 Year.
 
-[**See More**](/sample_page.md)
+[**See More**](/Pages/HR_Analysis.md)
 
 ---
 
