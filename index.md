@@ -49,20 +49,3 @@ Conducted in-depth analysis on the IPL dataset, culminating in the development o
 Conducted a thorough Exploratory Data Analysis (EDA) on the IMDB dataset using Python within Jupyter Notebook. This project delves into the intricacies of the dataset, unraveling valuable insights about the world of cinema. From analyzing movie attributes to exploring trends, the EDA encompasses a range of visualizations that offer a comprehensive understanding of the dataset's cinematic landscape. 📈🎥
 
 [**See More**](/sample_page.md)
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
