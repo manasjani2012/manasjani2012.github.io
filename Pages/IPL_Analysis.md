@@ -25,6 +25,7 @@
 
 ###  🏏 Player Statistics:
 
+![Player Statistics](/images/IPLAnalysis_Dashboard/IPL_PlayerStatistics.png)
 
 ### Analysis
 
