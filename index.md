@@ -38,7 +38,7 @@ Built a comprehensive HR Analytics dashboard that illuminates insights on employ
 
 Conducted in-depth analysis on the IPL dataset, culminating in the development of three comprehensive dashboards. These dashboards meticulously explore Match statistics, Player statistics, and Team statistics, providing a nuanced perspective on the dynamics within the realm of IPL cricket. 📈🏆
 
-[**See More**](/sample_page.md)
+[**See More**](/Pages/IPL_Analysis.md)
 
 ---
 
