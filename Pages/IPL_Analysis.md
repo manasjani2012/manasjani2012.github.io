@@ -12,6 +12,7 @@
 
 ###  📈 Match Statistics:
 
+![Match Statistics](/images/IPLAnalysis_Dashboard/IPL_MatchStatistics.png)
 
 ### Analysis
 
