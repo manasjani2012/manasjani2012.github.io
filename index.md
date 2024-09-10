@@ -46,6 +46,8 @@ Conducted in-depth analysis on the IPL dataset, culminating in the development o
 
 ![IMDB Data EDA and Visualization using Python](images/IMDB_Analysis/Imdb_Analysis.png)
 
+Conducted a thorough Exploratory Data Analysis (EDA) on the IMDB dataset using Python within Jupyter Notebook. This project delves into the intricacies of the dataset, unraveling valuable insights about the world of cinema. From analyzing movie attributes to exploring trends, the EDA encompasses a range of visualizations that offer a comprehensive understanding of the dataset's cinematic landscape. 📈🎥
+
 ---
 
 ### 💼 Loan Approval Insights Dashboard 📊
@@ -55,5 +57,3 @@ Conducted in-depth analysis on the IPL dataset, culminating in the development o
 The Loan Approval Insights Dashboard provides a comprehensive analysis of 🏦 loan distribution and approval patterns based on key applicant demographics. It offers valuable insights into how factors like 👩‍💼 gender, 🎓 education, ✅ credit history, and 🏠 property area influence loan approvals and amounts. The dashboard features interactive visuals such as 📊 bar charts, scatter plots, and pie charts, making it easy for users to explore relationships between loan characteristics and applicant income 💵.
 
 [**See More**]()
-
-Conducted a thorough Exploratory Data Analysis (EDA) on the IMDB dataset using Python within Jupyter Notebook. This project delves into the intricacies of the dataset, unraveling valuable insights about the world of cinema. From analyzing movie attributes to exploring trends, the EDA encompasses a range of visualizations that offer a comprehensive understanding of the dataset's cinematic landscape. 📈🎥
