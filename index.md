@@ -56,4 +56,4 @@ Conducted a thorough Exploratory Data Analysis (EDA) on the IMDB dataset using P
 
 The Loan Approval Insights Dashboard provides a comprehensive analysis of 🏦 loan distribution and approval patterns based on key applicant demographics. It offers valuable insights into how factors like 👩‍💼 gender, 🎓 education, ✅ credit history, and 🏠 property area influence loan approvals and amounts. The dashboard features interactive visuals such as 📊 bar charts, scatter plots, and pie charts, making it easy for users to explore relationships between loan characteristics and applicant income 💵.
 
-[**See More**]()
+[**See More**](/Pages/Loan_Analysis.md)
